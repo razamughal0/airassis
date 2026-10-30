@@ -224,3 +224,5 @@ audit groundedness on a sample. These are listed as outstanding work rather than
 | 6. Responsive chat UI | Done |
 | 7. Scheduled updates + authenticated admin | Done |
 | 8. Evaluation, security tests, monitoring docs | Unit/security tests done; labelled evaluation outstanding |
+#   a i r a s s i s  
+ 
